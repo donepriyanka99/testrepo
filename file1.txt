@@ -1,5 +1,5 @@
 git is version control system
 repository is a storage space
-second commit done
+first commit done
 
 
